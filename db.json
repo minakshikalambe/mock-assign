@@ -1,0 +1,13 @@
+{
+  "cars": [
+    {
+      "brand": "tata",
+      "type": "sedan",
+      "year": "2020",
+      "kms": "10000",
+      "Description": "beat car ",
+      "price": "800000",
+      "id": 5
+    }
+  ]
+}
